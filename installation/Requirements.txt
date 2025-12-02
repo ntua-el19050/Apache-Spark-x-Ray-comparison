@@ -1,5 +1,4 @@
 kaggle==1.6.17
-keras==3.5.0
 memory_profiler==0.61.0
 networkx==3.3
 numpy==1.26.4
